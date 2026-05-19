@@ -4,6 +4,22 @@ PayRam is a full-stack crypto payments infrastructure for businesses that want t
 
 ---
 
+## Contents
+
+- [Payment Links](#payment-links)
+- [Payment APIs](#payment-apis)
+- [Multi-Currency and Multi-Chain Support](#multi-currency-and-multi-chain-support)
+- [SmartSweep](#smartsweep)
+- [Customer Deposit Wallets](#customer-deposit-wallets)
+- [Multi-Brand Setup](#multi-brand-setup)
+- [User Management](#user-management)
+- [Analytics and Reporting](#analytics-and-reporting)
+- [Payouts](#payouts)
+- [Card-to-Crypto Fiat Onramp](#card-to-crypto-fiat-onramp)
+- [Shopify Plugin](#shopify-plugin)
+
+---
+
 ## Payment Links
 
 **Accept crypto payments in seconds. No code, no checkout page, no friction.**
